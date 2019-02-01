@@ -41,7 +41,7 @@
         padding: 2px 6px;
         border-radius: 3px;
         color: #fff;
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .status-common.pink {
