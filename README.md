@@ -1,4 +1,4 @@
-# tree
+# iview-tree-drag
 
 ## Project setup
 ```
