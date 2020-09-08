@@ -1,4 +1,4 @@
-# (resource-center-tree) base on iview-tree
+# iview-tree-drag
 
 ## Project setup
 ```
